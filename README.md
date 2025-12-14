@@ -1,7 +1,8 @@
-### Hi there 👋
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/cantalupo555">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cantalupo555&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantalupo555&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=cantalupo555&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/cantalupo555)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cantalupo555&hide_progress=false&langs_count=5&hide=java)](https://github.com/cantalupo555)
+
+### 👁 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=cantalupo555&label=Profile%20views&color=0e75b6&style=flat)
