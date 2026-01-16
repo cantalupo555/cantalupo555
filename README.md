@@ -1,7 +1,7 @@
 ### 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats-fast-ruby.vercel.app/api?username=cantalupo555&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/cantalupo555)
-[![Top Langs](https://github-readme-stats-fast-ruby.vercel.app/api/top-langs/?username=cantalupo555&hide_progress=false&langs_count=5&hide=java,c,html,qml,roff)](https://github.com/cantalupo555)
+[![Stats](https://github-readme-stats-fast-ruby.vercel.app/api?username=cantalupo555&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&v=1)](https://github.com/cantalupo555)
+[![Top Langs](https://github-readme-stats-fast-ruby.vercel.app/api/top-langs/?username=cantalupo555&hide_progress=false&langs_count=5&hide=java,c,html,qml,roff&v=1))](https://github.com/cantalupo555)
 
 
 ### 👁 Profile Views
